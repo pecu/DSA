@@ -1,0 +1,23 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 003C8H 003C9H _TEXT              CODE
+ 003CAH 0041FH 00056H _DATA              DATA
+ 00420H 00420H 00000H _BSS               BSS
+
+Error: Undefined symbol operator delete(void near*) in module MOUSE.CPP
+Error: Undefined symbol operator new(unsigned int) in module MOUSE.CPP
+Error: Undefined symbol _PRINTF in module MAPVIEW.CPP
+Error: Undefined symbol _FCLOSE in module MAPVIEW.CPP
+Error: Undefined symbol _FGETS in module MAPVIEW.CPP
+Error: Undefined symbol _SSCANF in module MAPVIEW.CPP
+Error: Undefined symbol _FOPEN in module MAPVIEW.CPP
+Error: Undefined symbol _STRLEN in module MAPVIEW.CPP
+Error: Undefined symbol _STRCAT in module MAPVIEW.CPP
+Error: Undefined symbol _STRCPY in module MAPVIEW.CPP
+Error: Undefined symbol _GETS in module MAPVIEW.CPP
+Error: Undefined symbol _PUTS in module MAPVIEW.CPP
+Error: Undefined symbol _GOTOXY in module MAPVIEW.CPP
+Program entry point at 0000:0000
+Warning: No stack
+

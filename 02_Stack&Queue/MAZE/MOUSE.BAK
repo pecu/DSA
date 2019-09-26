@@ -1,0 +1,20 @@
+#ifndef _CMOUSE_H_
+#define _CMOUSE_H_
+
+
+#include "..\MyProj~1\Maze\MAPVIEW.H"	// Added by ClassView
+class CMouse
+{
+public:
+	void SetStartPos( int x, int y );
+	void SetMap( CMapView *map );
+	CMouse();
+	virtual ~CMouse();
+
+private:
+	int m_yPos;
+	int m_xPos;
+	CMapView *m_map;
+};
+
+#endif 
